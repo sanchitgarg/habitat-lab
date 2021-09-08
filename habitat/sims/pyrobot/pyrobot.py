@@ -18,6 +18,7 @@ from habitat.core.simulator import (
     RGBSensor,
     SensorSuite,
     Simulator,
+    AudioSensor,
 )
 from habitat.core.utils import center_crop, try_cv2_import
 

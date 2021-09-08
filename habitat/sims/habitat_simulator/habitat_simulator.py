@@ -40,6 +40,7 @@ from habitat.core.simulator import (
     ShortestPathPoint,
     Simulator,
     VisualObservation,
+    #AudioObservation,
 )
 from habitat.core.spaces import Space
 
